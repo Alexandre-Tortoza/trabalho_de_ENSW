@@ -1,16 +1,16 @@
 # estórias de usuário
 
 _alexmrtr_
-[US001]
+[US001][M]
 Como usuário da plataforma quero poder cadastrar os meus gastos mensais, para poder visualizar de forma simples minhas contas a pagar
 
-[US002]
+[US002][M]
 Como usuário quero poder Adicionar na plataforma os meus 'incomings' para ter uma noção de quando entra dinheiro e o quanto
 
-[US003]
+[US003][M]
 Como usuário quero poder tranferir dinheiro direto da plataforma, seja para um banco ou outra conta dentro da plataforma, para não ter que entrar nas contas dos bancos para fazer isso
 
-[US004]
+[US004][M]
 Como usuário quero relatórios e graficos, dos meu gastos, pada poder saber se estou gastando mais do que deveria, e isso de forma visual
 
 _Gian_
