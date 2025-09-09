@@ -11,13 +11,13 @@ Como usuário quero poder tranferir dinheiro direto da plataforma, seja para um 
 Como usuário quero relatórios e graficos, dos meu gastos, pada poder saber se estou gastando mais do que deveria, e isso de forma visual
 
 _Gian_
-[US005]
-Como usuário quero poder escolher entre o tigrinho ou a cobrinha, as vezes o tigre não ta pagando.
-[US006]
+[US005][M]
+Como usuário quero poder escolher entre os diferentes jogos, as vezes não estou com sorteem um específico.
+[US006][C]
 Como usuário quero definir limites de aposta diários e semanais para controlar meus gastos e jogar de forma responsável.
-[US007]
+[US007][C]
 Como usuário quero ver o histórico de apostas e resultados com filtros por jogo/período para entender meu desempenho.
-[US008]
+[US008][S]
 Como usuário quero testar os jogos em modo demonstração antes de apostar dinheiro, para avaliar a mecânica e o risco.
 
 _Paulo_
