@@ -1,4 +1,4 @@
-# estórias de usuário
+# Estórias de usuário
 
 _Alexandre_
 [US001][M]
