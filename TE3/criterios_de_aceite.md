@@ -72,12 +72,12 @@
 
 ---
 
-[US005] — Escolher entre jogos (tigrinho/cobrinha)
+[US005] — Escolher entre os diferentes jogos da plataforma
 [Dado que] estou na área de Cassino, autenticado e em região permitida
 [Quando] abro a lista de jogos ou uso o filtro por tipo
-[Então] devo ver “Tigrinho” e “Cobrinha” disponíveis com botão “Jogar”.
+[Então] devo ver um menu com os jogos disponíveis com botão “Jogar”.
 
-[Dado que] seleciono “Tigrinho” ou “Cobrinha”
+[Dado que] seleciono um jogo
 [Quando] confirmo a entrada no jogo
 [Então] o jogo deve carregar em até **3s**, exibindo saldo disponível e limites.
 
