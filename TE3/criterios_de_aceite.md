@@ -72,12 +72,12 @@
 
 ---
 
-[US005] — Escolher entre jogos (tigrinho/cobrinha)
+[US005]
 [Dado que] estou na área de Cassino, autenticado e em região permitida
 [Quando] abro a lista de jogos ou uso o filtro por tipo
-[Então] devo ver “Tigrinho” e “Cobrinha” disponíveis com botão “Jogar”.
+[Então] devo ver um menu com os jogos disponíveis com botão “Jogar”.
 
-[Dado que] seleciono “Tigrinho” ou “Cobrinha”
+[Dado que] seleciono um jogo
 [Quando] confirmo a entrada no jogo
 [Então] o jogo deve carregar em até **3s**, exibindo saldo disponível e limites.
 
@@ -91,7 +91,7 @@
 
 ---
 
-[US006] — Definir limites de aposta (responsible gambling)
+[US006]
 [Dado que] estou nas configurações de limites
 [Quando] defino valores diário e semanal e salvo com 2FA
 [Então] os limites entram em vigor imediatamente e ficam visíveis no cabeçalho do Cassino.
@@ -110,7 +110,7 @@
 
 ---
 
-[US007] — Histórico de apostas e resultados
+[US007]
 [Dado que] estou na página “Histórico”
 [Quando] filtro por jogo/período/resultado
 [Então] a lista é atualizada com total apostado, total ganho e saldo do período.
@@ -129,7 +129,7 @@
 
 ---
 
-[US008] — Modo demonstração dos jogos
+[US008]
 [Dado que] estou na listagem de jogos
 [Quando] escolho “Jogar em modo demonstração”
 [Então] o jogo abre com créditos virtuais, rótulo visível “DEMO” e sem afetar meu saldo real.

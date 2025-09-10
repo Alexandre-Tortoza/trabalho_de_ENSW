@@ -21,9 +21,8 @@ Cassino / Jogos
 - RF-CAS-004 Limites de aposta (definir, aplicar, 2FA, período de reflexão)
 - RF-CAS-005 Bloqueio ao exceder limites + mensagens
 - RF-CAS-006 Histórico de apostas com filtros e totais
-- RF-CAS-007 Exportação do histórico (CSV)
-- RF-CAS-008 Modo demonstração (créditos virtuais, rótulo DEMO)
-- RF-CAS-009 Troca de DEMO para saldo real com confirmação
+- RF-CAS-007 Modo demonstração (créditos virtuais, rótulo DEMO)
+- RF-CAS-008 Troca de DEMO para saldo real com confirmação
 
 NFT
 
@@ -71,7 +70,7 @@ Aplicativo
 
 - US006 (Limites de aposta) → RF-CAS-004, RF-CAS-005
 
-- US007 (Histórico de apostas) → RF-CAS-006, RF-CAS-007
+- US007 (Histórico de apostas) → RF-CAS-006
 
 - US008 (Modo demonstração) → RF-CAS-008, RF-CAS-009
 
